@@ -20,3 +20,13 @@ Three 'Enter' key inputs skips a line and removes the hyphen, although the forma
 Now we break for some fun in the way of an image addition
 
 ![GettyImages-621924830-scaled](https://github.com/tdhaxton/skills-communicate-using-markdown/assets/157244208/ed266ce6-7d3e-455d-b202-0446ab9af699)
+
+#### Code input
+```
+#include <iostream>
+
+int main()
+{
+  std::cout << "Hello world!\n";
+}
+```
