@@ -16,3 +16,7 @@
 - Two 'Enter' key inputs skips a line, although the formatted output doesn't reflect the skipped line
 
 Three 'Enter' key inputs skips a line and removes the hyphen, although the formatted output doesn't reflect the skipped line
+
+Now we break for some fun in the way of an image addition
+
+![GettyImages-621924830-scaled](https://github.com/tdhaxton/skills-communicate-using-markdown/assets/157244208/ed266ce6-7d3e-455d-b202-0446ab9af699)
